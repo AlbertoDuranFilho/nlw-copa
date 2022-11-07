@@ -46,9 +46,5 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 ---
 
 <p align="center">
-  Feito com 💜 by Rocketseat
-</p>
-
-<p align="center">
-  <a href="https://discord.gg/rocketseat">👉 Participe da nossa comunidade 👈</a>
+  Projeto criado no evento NLW da Rocketseat! 
 </p>
